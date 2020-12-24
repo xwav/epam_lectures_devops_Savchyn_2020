@@ -1,0 +1,43 @@
+5a864c0 HEAD@{0}: commit: main change
+d3ba4a4 HEAD@{1}: merge develop: Fast-forward
+76238be HEAD@{2}: checkout: moving from develop to main
+d3ba4a4 HEAD@{3}: checkout: moving from main to develop
+76238be HEAD@{4}: checkout: moving from develop to main
+d3ba4a4 HEAD@{5}: commit (merge): Merge branch 'styles' into develop
+9fe6d34 HEAD@{6}: commit (merge): Merge branch 'images' into develop
+9ce8faf HEAD@{7}: commit: sdgfdg
+6f00ba3 HEAD@{8}: checkout: moving from images to develop
+1605a74 HEAD@{9}: commit: shghgs
+a7f3356 HEAD@{10}: commit: remo
+15b3e4b HEAD@{11}: checkout: moving from develop to images
+6f00ba3 HEAD@{12}: checkout: moving from styles to develop
+41dad0e HEAD@{13}: commit: deleted index html
+01bd929 HEAD@{14}: checkout: moving from develop to styles
+6f00ba3 HEAD@{15}: checkout: moving from styles to develop
+01bd929 HEAD@{16}: commit: ano
+b0ff90b HEAD@{17}: commit: hdaslkhff
+721713d HEAD@{18}: checkout: moving from develop to styles
+6f00ba3 HEAD@{19}: checkout: moving from main to develop
+76238be HEAD@{20}: checkout: moving from develop to main
+6f00ba3 HEAD@{21}: commit: modified index.html
+7d9644f HEAD@{22}: checkout: moving from images to develop
+15b3e4b HEAD@{23}: checkout: moving from styles to images
+721713d HEAD@{24}: commit: added styles source
+15b3e4b HEAD@{25}: checkout: moving from images to styles
+15b3e4b HEAD@{26}: commit: added images folder on branch 'images'
+7d9644f HEAD@{27}: checkout: moving from develop to images
+7d9644f HEAD@{28}: commit: start
+06ced15 HEAD@{29}: checkout: moving from main to develop
+76238be HEAD@{30}: checkout: moving from pics to main
+10ad966 HEAD@{31}: checkout: moving from develop to pics
+06ced15 HEAD@{32}: checkout: moving from pics to develop
+10ad966 HEAD@{33}: commit: deleted index.html from branch pics
+99c3059 HEAD@{34}: checkout: moving from main to pics
+76238be HEAD@{35}: checkout: moving from pics to main
+99c3059 HEAD@{36}: commit: added directory with screenshots /pictures
+06ced15 HEAD@{37}: checkout: moving from develop to pics
+06ced15 HEAD@{38}: checkout: moving from main to develop
+76238be HEAD@{39}: checkout: moving from develop to main
+06ced15 HEAD@{40}: commit: index.html added
+76238be HEAD@{41}: checkout: moving from main to develop
+76238be HEAD@{42}: clone: from https://github.com/xwav/epam_lectures_devops_Savchyn_2020.git
