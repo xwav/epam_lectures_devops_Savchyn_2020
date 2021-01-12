@@ -43,7 +43,7 @@ executed SELECT on RDS AWS
 ![image3_16](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_18.png)
 
 created Amazon DynamoDB table and entered data into it  
-![image3_16(https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_19.png)
+![image3_16](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_19.png)
 
 using query Scan  
 ![image3_17](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_20.png)
