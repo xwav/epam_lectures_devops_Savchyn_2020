@@ -1,56 +1,58 @@
-## Savchyn_S. EPAM DevOps courses. Task3.
+## Savchyn_S. EPAM DevOps courses. Task3. Database Administation  
 
-![image1](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/file_example_JPG_1MB.jpg)
-<!DOCTYPE html>
-<html>
-	<head>
-		<link rel="stylesheet" href="styles/styles.css">
-		
-	<title>S_SAVCHYN_EPAM_DEVOPS</title>
-	</head>
-	
-	<body>
-	<p>student: S.Savchyn</p>
-	<h1>TASK_2.1. Work with VirtualBox</h1>
-	
-	<h2>*cloned VM1 and made a snapshot</h2>
-	<img src="images/task2_1.png" alt="shot1" width="1000" height="600">
-	
-	<h2>*connected USB</h2>
-	<img src="images/task2_2.png" alt="shot1" width="1000" height="600">
-	
-	<h2>*configured shared folder</h2>
-	<img src="images/task2_4.png" alt="shot1" width="1000" height="600">
-	
-	<h2>*configured connection between VM1 and VM2</h2>
-	<img src="images/task2_7.png" alt="shot1" width="1000" height="600">
-	
-	<h2>*work with CLI through VBoxManage<h2>
-	<img src="images/task2_8.png" alt="shot1" width="1000" height="600">
-	
-	<h2>*cloned VM2 through VBoxManage<h2>
-	<img src="images/task2_9.png" alt="shot1" width="1000" height="600">
-	
-	<h2>*checked Vagrant PATH variable<h2>
-	<img src="images/task2_10.png" alt="shot1" width="1000" height="600">
-	
-	<h2>*initialized environment with default vagrant box<h2>
-	<img src="images/task2_11.png" alt="shot1" width="1000" height="600">
-	
-	<h2>*connected to VM using PuTTY<h2>
-	<img src="images/task2_12.png" alt="shot1" width="1000" height="600">
-	
-	<h2>*created own Vagrant box and configured ssh keys<h2>
-	<img src="images/task2_16.png" alt="shot1" width="1000" height="600">
-	
-	<h2>*checked sshd status<h2>
-	<img src="images/task2_17.png" alt="shot1" width="1000" height="600">
-	
-	<h2>*packaged, added and initialised own Vagrant box<h2>
-	<img src="images/task2_20.png" alt="shot1" width="1000" height="600">
-	
-		</body>
-</html>
+imported database 'classicmodels' containing information on sales of spare parts, payments and customer data  
+![image3_1](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_1.png)
+
+displaying filled tables 
+![image3_2](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_2.png)  
+![image3_3](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_4.png)
+![image3_4](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_5.png)
+
+executing GROUP BY operator  
+![image3_5](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_7.png)
+
+executing ORDER BY operator  
+![image3_6](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_8.png)
+
+executing DDL and DML queries  
+![image3_7](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_9.png)
+![image3_8](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_10.png)
+
+creating database of users and GRANT privileges which is also DCL query  
+![image3_9](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_11.png)
+
+user_1 restircted privilege  
+![image3_10](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_12.png)
+
+database backup  
+![image3_11](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_13.png)
+
+deleted part of the table  
+![image3_12](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_14.png)
+
+restoring database  
+![image3_13](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_15.png)
+
+database transfered to RDS AWS  
+![image3_14](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_16.png)
+
+connected to RDS AWS  
+![image3_15](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_17.png)
+
+executed SELECT on RDS AWS  
+![image3_16](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_18.png)
+
+created Amazon DynamoDB table and entered data into it  
+![image3_16(https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_19.png)
+
+using query Scan  
+![image3_17](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_20.png)
+
+
+
+
+
+
 
 
 
