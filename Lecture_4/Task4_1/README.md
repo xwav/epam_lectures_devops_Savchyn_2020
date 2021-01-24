@@ -1,7 +1,8 @@
 ## Savchyn_S. EPAM DevOps courses. Task4.1. Networking Fundamentals
 
 Network of 4 PC with a Hub
-![image4.1_1](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_4/Task4_1/images/4.1_1.png)
+
+<img src="https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_4/Task4_1/images/4.1_1.png" width="200" height="150">
 
 displaying filled tables 
 ![image3_2](https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_3/Task_3/images/task3_2.png)  
