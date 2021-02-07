@@ -61,7 +61,7 @@ using "locate" command
 <img src="https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_5/Task5_1/images/5.1_21.png" width="1024">
 
 screen-by-screen print of etc/ directory content using command "more"
-<img src="https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_5/Task5_1/images/5.1_22.png.png" width="1024">
+<img src="https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_5/Task5_1/images/5.1_22.png" width="1024">
 
 all devices are listed in dev/ directory. "sd" are the hard drives, "sr" is for CD-ROM, "tty" is the terminal connected to the standard input
 <img src="https://github.com/xwav/epam_lectures_devops_Savchyn_2020/blob/main/Lecture_5/Task5_1/images/5.1_23.png" width="1024">
